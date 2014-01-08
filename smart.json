@@ -1,0 +1,9 @@
+{
+  "name": "leaflet-label",
+  "description": "Leaflet.label is plugin for adding labels to markers & shapes on leaflet powered maps.",
+  "homepage": "https://github.com/bdunnette/meteor-leaflet-label",
+  "author": "Brian Dunnette <brian@dunnette.us> (http://brian.dunnette.us)",
+  "version": "0.2.1",
+  "git": "https://github.com/bdunnette/meteor-leaflet-label.git"
+}
+

@@ -1,2 +1,2 @@
-meteor-leaflet-label
-====================
+meteor-leaflet-draw
+===================
